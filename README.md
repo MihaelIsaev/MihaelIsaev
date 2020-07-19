@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hello world! 👋
 
-<!--
-**MihaelIsaev/MihaelIsaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my world of projects 🌍
 
-Here are some ideas to get you started:
+I have a lot of interesting solutions for your iOS/macOS and server-side swift projects 🚀
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+I'm programming from 2004 and I'm in love with iOS development since 2010 ❤️
+
+- 🔭 I’m currently working on one secret project 😜
+- 🌱 I’m always learning 🤓
+- 👯 I’m looking to collaborate on UIKitPlus, SwifQL, etc.
+- 🍻 I’m always ready to help with anything related to server-side swift and my iOS libs
+- 💬 Feel free to find me in Discord as iMike#3049
 - 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😄 Pronouns: Swift one love! 😍
