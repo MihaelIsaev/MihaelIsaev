@@ -10,7 +10,7 @@ Swift is my passion from its first release 😊
 
 - 🔭 I’m currently working on **SwifWeb** project 😏
 - 🌱 I’m always learning 🧐
-- 👯 I’m looking to collaborate on SwifWeb, SwifQL, UIKitPlus, etc.
+- 👯 I'm waiting for your PR into SwifWeb, SwifQL, UIKitPlus, etc.
 - 🍻 I’m always ready to help with anything related to server-side swift and all of my libs
 - 💬 Feel free to find me in Discord as iMike#3049
 - 😄 Pronouns: Swift one love! 😍
