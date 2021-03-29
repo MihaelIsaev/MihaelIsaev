@@ -2,7 +2,7 @@
 
 Welcome to my world of projects 🌍
 
-I have a lot of interesting solutions for your iOS/macOS and server-side swift projects 🚀
+I have a lot of interesting solutions for your iOS/macOS, web, and server-side swift projects 🚀
 
 I'm programming since 2004 and I'm in love with iOS development since 2010 ❤️
 
