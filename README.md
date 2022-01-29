@@ -2,6 +2,8 @@
 
 Welcome to my world of projects 🌍
 
+[BECOME MY PATREON](https://www.patreon.com/imike3049)
+
 I have a lot of interesting solutions for your iOS/macOS, web, and server-side swift projects 🚀
 
 I'm programming since 2004, in mobile development since 2010, and in love with Swift since 2014 ❤️
