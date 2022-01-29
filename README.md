@@ -2,7 +2,7 @@
 
 Welcome to my world of projects 🌍
 
-👉 [BECOME MY PATREON](https://www.patreon.com/imike3049)
+👉 [BECOME MY PATRON](https://www.patreon.com/imike3049)
 
 I have a lot of interesting solutions for your iOS/macOS, Android, web, and server-side swift projects 🚀
 
