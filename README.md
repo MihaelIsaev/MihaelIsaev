@@ -4,7 +4,7 @@ Welcome to my page, I have some interesting frameworks and libs written in Swift
 
 I'm programming since 2004, in mobile development since 2010, and in love with Swift since 2014 ❤️
 
-Swift is my passion from its first release so all my solutions are written in it 😊
+Swift is my passion from its first release, so all my solutions are written in it 😊
 
 Swift is great for [iOS/macOS](https://github.com/MihaelIsaev/UIKitPlus), Android, [web](https://github.com/swifweb/), and [server-side](https://github.com/vapor/) development 💪
 
