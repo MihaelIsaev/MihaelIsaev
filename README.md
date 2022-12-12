@@ -1,20 +1,16 @@
-### Hello world! 👋
+### Hey mate! 👋
 
-Welcome to my world of projects 🌍
-
-👉 [BECOME MY PATRON](https://www.patreon.com/imike3049)
-
-I have a lot of interesting solutions for your iOS/macOS, Android, web, and server-side swift projects 🚀
+Welcome to my page, I have some interesting projects written in Swift ⚡️
 
 I'm programming since 2004, in mobile development since 2010, and in love with Swift since 2014 ❤️
 
 Swift is my passion from its first release so all my solutions are written in it 😊
 
-- 🔭 I’m currently working on **SwifDroid** and **SwifWeb** projects 😏
-- 🌱 I’m always learning 🧐
-- 👯 I'm waiting for your PR into SwifWeb, SwifQL, UIKitPlus, etc.
-- 🍻 I’m always ready to help with anything related to server-side swift and all of my libs
-- 💬 Feel free to find me in Discord as iMike#3049
-- 😄 Pronouns: Swift one love! 😍
+Swift is great for [iOS/macOS](https://github.com/MihaelIsaev/UIKitPlus), Android, [web](https://github.com/swifweb/), and [server-side](https://github.com/vapor/) development 💪
 
-Hire me for your project through [upwork](http://upwork.com/freelancers/~01e0f70e7b012fe926)
+- 🔭 Currently working on [**SwifWeb**](https://github.com/swifweb/) project
+- 📖 Always learning
+- 🤝 Waiting for your PR into SwifWeb, SwifQL, UIKitPlus, etc.
+- 💬 I’m always ready to help, find me in Discord as iMike#3049 or in Telegram as imike3049
+
+[linkedin](https://www.linkedin.com/in/mihaelisaev/) [upwork](http://upwork.com/freelancers/~01e0f70e7b012fe926)
