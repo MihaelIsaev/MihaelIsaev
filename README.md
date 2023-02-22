@@ -6,7 +6,7 @@ I'm programming since 2004, in mobile development since 2010, and in love with S
 
 Swift is my passion from its first release, so all my solutions are written in it 😊
 
-Swift is great for [iOS/macOS](https://github.com/MihaelIsaev/UIKitPlus), Android, [web](https://github.com/swifweb/), and [server-side](https://github.com/vapor/) development 💪
+Swift is great for [iOS/macOS](https://github.com/MihaelIsaev/UIKitPlus), [Android](https://github.com/swifdroid/), [web](https://github.com/swifweb/), and [server-side](https://github.com/vapor/) development 💪
 
 - 🔭 Currently working on [**SwifWeb**](https://github.com/swifweb/) project
 - 📖 Always learning
