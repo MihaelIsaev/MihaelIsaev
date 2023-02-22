@@ -8,9 +8,9 @@ Swift is my passion from its first release, so all my solutions are written in i
 
 Swift is great for [iOS/macOS](https://github.com/MihaelIsaev/UIKitPlus), [Android](https://github.com/swifdroid/), [web](https://github.com/swifweb/), and [server-side](https://github.com/vapor/) development 💪
 
-- 🔭 Currently working on [**SwifWeb**](https://github.com/swifweb/) project
+- 🔭 Currently working on [**SwifWeb**](https://github.com/swifweb/) and [**SwifDroid**](https://github.com/swifdroid/) projects
 - 📖 Always learning
-- 🤝 Waiting for your PR into SwifWeb, SwifQL, UIKitPlus, etc.
+- 🤝 Waiting for your PR into SwifWeb, SwifDroid, SwifQL, UIKitPlus, etc.
 - 💬 I’m always ready to help, find me in Discord as iMike#3049 or in Telegram as imike3049
 
 <h4 align="left">Connect with me:</h4>
