@@ -8,7 +8,7 @@ I'm good in a lot of languages: C, C#, Objective-C, Swift, Java, JS/TS, Python, 
 
 Swift is my passion from its first release, so all my solutions are written in it 😊
 
-Swift is great for [iOS/macOS](https://github.com/MihaelIsaev/UIKitPlus), [Android](https://github.com/swifdroid/), [web](https://github.com/swifweb/), and [server-side](https://github.com/vapor/) development 💪
+I use Swift for [iOS/macOS](https://github.com/MihaelIsaev/UIKitPlus), [Android](https://github.com/swifdroid/), [web](https://github.com/swifweb/), [server-side](https://github.com/vapor/), and even [embedded](https://github.com/apple/swift-embedded-examples) development 💪
 
 - 🔭 Currently working on [**SwifWeb**](https://github.com/swifweb/) project
 - 📖 Always learning
