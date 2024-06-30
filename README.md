@@ -4,7 +4,7 @@ Welcome to my page, I'm maintaining some wonderful Swift frameworks and libs ⚡
 
 My professional programmer journey started in 2004, mobile development life in 2010, and I'm in love with Swift since 2014 ❤️
 
-I'm good in a lot of languages: C, C#, Objective-C, Swift, Java, JS, TS, Python, etc.
+I'm good in a lot of languages: C, C#, Objective-C, Swift, Java, JS/TS, Python, etc.
 
 Swift is my passion from its first release, so all my solutions are written in it 😊
 
