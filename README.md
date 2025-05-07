@@ -22,7 +22,3 @@ I use Swift for [iOS/macOS](https://github.com/MihaelIsaev/UIKitPlus), [Android]
 <a href="https://stackoverflow.com/users/1001057/imike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1001057" height="30" width="40" /></a>
 <!--<a href="https://medium.com/@imike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imike" height="30" width="40" /></a>-->
 </p>
-
-<h4 align="left">Work with me</h4>
-
-<a href="http://upwork.com/freelancers/~01e0f70e7b012fe926" target="blank"><img align="center" src="https://user-images.githubusercontent.com/1272610/208245596-24ed1a08-26ea-47bb-a934-913587f53ae1.png" alt="~01e0f70e7b012fe926" height="30" /></a>
