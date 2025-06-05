@@ -17,7 +17,6 @@ I use Swift for [iOS/macOS](https://github.com/MihaelIsaev/UIKitPlus), [Android]
 
 <h4 align="left">Connect with me</h4>
 <p align="left">
-<a href="https://twitter.com/MihaelIsaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="MihaelIsaev" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/mihaelisaev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mihaelisaev" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/1001057/imike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="1001057" height="30" width="40" /></a>
 <!--<a href="https://medium.com/@imike" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@imike" height="30" width="40" /></a>-->
