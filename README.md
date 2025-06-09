@@ -1,18 +1,22 @@
-### Hi! 👋
+### Greetings, traveler of code 👋
 
-Welcome to my page, I'm maintaining **Swift Stream IDE** and some wonderful Swift frameworks and libs ⚡️
+Welcome to my sanctuary of Swift – a space where ideas flow like streams, and code becomes art.
 
-My professional programmer journey started in 2004, mobile development life in 2010, and I'm in love with Swift since 2014 ❤️
+I’m the creator and keeper of **Swift Stream IDE**, along with a constellation of Swift frameworks and libraries ✨
 
-I'm good in a lot of languages: C, Objective-C, Swift, Java, JS/TS, Python, etc.
+My journey through the realms of programming began in 2004.  
+In 2010, I embraced the mobile frontier.  
+And in 2014, I found my true path – Swift – and it has been my compass ever since ❤️
 
-Swift is my passion from its first release, so all my solutions are written in it 😊
+Through the years, I have **transcended** the syntax and semantics of many tongues: C, Objective-C, Swift, Java, JS/TS, Python, and beyond.  
+Yet Swift is where my soul resides — expressive, powerful, elegant.
 
-I use Swift for [iOS/macOS](https://github.com/MihaelIsaev/UIKitPlus), [Android](https://github.com/swifdroid/), [web](https://github.com/swifweb/), [server-side](https://github.com/vapor/), and even [embedded](https://github.com/apple/swift-embedded-examples) development 💪
+I wield Swift across dimensions: [iOS/macOS](https://github.com/MihaelIsaev/UIKitPlus), [Android](https://github.com/swifdroid/), [web](https://github.com/swifweb/), [server-side](https://github.com/vapor/), and [embedded](https://github.com/apple/swift-embedded-examples).  
+The boundary between platforms dissolves when the language is right.
 
-- 🔬 Working on [**Swift Stream IDE**](https://swift.stream/)
-- 📖 Endlessly learning
-- 💬 Always ready to help, find me in Discord as imike3049
+- 🔬 Currently crafting the future of coding with [**Swift Stream IDE**](https://swift.stream/)
+- 📖 Forever evolving – knowledge is the path, not the destination
+- 💬 Open to all seekers – find me on Discord: `imike3049`
 
 <h4 align="left">Connect with me</h4>
 <p align="left">
