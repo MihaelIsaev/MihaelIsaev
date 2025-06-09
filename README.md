@@ -10,9 +10,8 @@ Swift is my passion from its first release, so all my solutions are written in i
 
 I use Swift for [iOS/macOS](https://github.com/MihaelIsaev/UIKitPlus), [Android](https://github.com/swifdroid/), [web](https://github.com/swifweb/), [server-side](https://github.com/vapor/), and even [embedded](https://github.com/apple/swift-embedded-examples) development 💪
 
-- 🔬 Currently working on [**Swift Stream IDE**](https://swift.stream/)
-- 📖 Always learning
-- 🤝 Would love to collaborate
+- 🔬 Working on [**Swift Stream IDE**](https://swift.stream/)
+- 📖 Endlessly learning
 - 💬 Always ready to help, find me in Discord as imike3049
 
 <h4 align="left">Connect with me</h4>
