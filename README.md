@@ -15,6 +15,8 @@ I wield Swift across dimensions: [iOS/macOS](https://github.com/MihaelIsaev/UIKi
 The boundary between platforms dissolves when the language is right.
 
 - 🔬 Currently crafting the future of coding with [**Swift Stream IDE**](https://swift.stream/)
+- 🧱 Building the [SwifDroid framework](http://docs.swifdroid.com/app/)
+- 🌐 Updating the [SwifWeb framework](https://github.com/swifweb/web/) to Swift 6
 - 📖 Forever evolving – knowledge is the path, not the destination
 - 💬 Open to all seekers – find me on Discord: `imike3049`
 
