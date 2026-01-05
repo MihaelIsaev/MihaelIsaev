@@ -8,7 +8,7 @@ My journey through the realms of programming began in 2004.
 In 2010, I embraced the mobile frontier.  
 And in 2014, I found my true path – Swift – and it has been my compass ever since ❤️
 
-Through the years, I have **transcended** the syntax and semantics of many tongues: C, Objective-C, Swift, Java, JS/TS, Python, and beyond.  
+Through the years, I have **transcended** the syntax and semantics of many languages: C, Objective-C, Swift, Java, JS/TS, Python, and beyond.  
 Yet Swift is where my soul resides — expressive, powerful, elegant.
 
 I wield Swift across dimensions: [iOS/macOS](https://github.com/MihaelIsaev/UIKitPlus), [Android](https://github.com/swifdroid/), [web](https://github.com/swifweb/), [server-side](https://github.com/vapor/), and [embedded](https://github.com/apple/swift-embedded-examples).  
